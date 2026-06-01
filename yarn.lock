@@ -2828,10 +2828,10 @@ ansi-styles@^4.1.0:
   dependencies:
     color-convert "^2.0.1"
 
-apexcharts@5.10.4:
-  version "5.10.4"
-  resolved "https://registry.yarnpkg.com/apexcharts/-/apexcharts-5.10.4.tgz#79c9a05ab40b069f33873a1859de6cb0882ccf0e"
-  integrity sha512-gt0VUqZ2+mr25ScbUcKZgJr96jKYm4vjOcxEWCEh/E5F4dWqhyo3dBhPRvNNnkKiWxkMd2cBwj3ZYH3rK39fkA==
+apexcharts@5.13.0:
+  version "5.13.0"
+  resolved "https://registry.yarnpkg.com/apexcharts/-/apexcharts-5.13.0.tgz#197082a938794780f8de6df0ffdc33a9fa9ee12b"
+  integrity sha512-PJuXT6zdiCbv0IkX5cqkKFVIIh+9v3kqP9zsOHEGpIWi7DfTgzvfOKc8icw6G3/ulR3V1alDDUtOVH0zWCWGEQ==
 
 argparse@^1.0.7:
   version "1.0.10"
